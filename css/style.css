@@ -288,7 +288,7 @@ a.nav-item {
     font-family: 'verdanaregular';
 }
 
-a.nav-item.active {
+a.nav-item.active, a.nav-item:hover {
     color: #d2b593;
 }
 .box .service-image-holder:hover {
